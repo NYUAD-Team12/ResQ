@@ -13,7 +13,7 @@ NGOs have the possibility to create an official account and add the type of skil
 # Companies signup and use
 Companies can use ResQ by creating an account and filling up details about the project they recruit for by adding the needed skills and levels. ResQ can be either used to recruit from existing users, or from new users that the company can add. When doing the latter, the company is using the optimizer to help in their classical recruitment process. This is simlar to a cross-analysis that can be leveraged to imrpove internal HR KPIs. Companies have also the possibility to explore external users to improve the recuitment results beyond the profiles that have already been identified by them.
 
-# Allocation of volunteers to NGOs
+<!-- # Allocation of volunteers to NGOs
 We first formulate the 
 
-# Allocation of job seekers to companies
+# Allocation of job seekers to companies -->
